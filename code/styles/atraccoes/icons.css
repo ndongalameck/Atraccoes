@@ -1,0 +1,35 @@
+@font-face{
+	font-family: 'FontAwesome';
+	src: url('../../fonts/fontawesome/FontAwesome.otf');
+	src: url('../../fonts/fontawesome/fontawesome-webfont.eot');
+	src: url('../../fonts/fontawesome/fontawesome-webfont.ttf');
+}
+.navicon:before{font-family: 'FontAwesome';content: "\f0c9";} 
+.search:before{font-family: 'FontAwesome';content: "\f002";}
+.facebook:before{font-family: 'FontAwesome';content: "\f09a";}
+.instagram:before{font-family: 'FontAwesome';content: "\f16d";}
+.google-plus:before{font-family: 'FontAwesome';content: "\f0d5";}
+.twitter:before{font-family: 'FontAwesome';content: "\f099";}
+.chevron-left:before{font-family: 'FontAwesome';content: "\f053";}
+.chevron-right:before{font-family: 'FontAwesome';content: "\f054";}
+.e-mail:before{font-family: 'FontAwesome';content: "\f0e0";}
+.phone:before{font-family: 'FontAwesome';content: "\f095";font-size: 1.2em;}
+.user:before{font-family: 'FontAwesome';content: "\f007";font-size: 1.2em;}
+.tag:before{font-family: 'FontAwesome';content: "\f02b";}
+.calendar:before{font-family: 'FontAwesome';content: "\f073";font-size: 1.1em;}
+.comment:before{font-family: 'FontAwesome';content: "\f075";}
+.password:before{font-family: 'FontAwesome';content: "\f084";}
+.sign-out:before{font-family: 'FontAwesome';content: "\f08b";font-size: 1.2em;}
+.dashboard:before{font-family: 'FontAwesome';content: "\f0e4";font-size: 1.1em;}
+.newspaper:before{font-family: 'FontAwesome';content: "\f1ea";font-size: 1.1em;}
+.plus-circle:before{font-family: 'FontAwesome';content: "\f055";}
+.list:before{font-family: 'FontAwesome';content: "\f0ce";}
+.publish:before{font-family: 'FontAwesome';content: "\f298";font-size: 1.1em;}
+.comments-o:before{font-family: 'FontAwesome';content: "\f086";font-size: 1.1em;}
+.users:before{font-family: 'FontAwesome';content: "\f0c0";font-size: 1.1em;}
+.arrow-circle-right:after{font-family: 'FontAwesome';content: "\f0a9";}
+.clock-o:before{font-family: 'FontAwesome';content: "\f017";}
+.times-circle:before{font-family: 'FontAwesome';content: "\f057";font-size: 1.4em;}
+.unlock:before{font-family: 'FontAwesome';content: "\f13e";font-size: 1.1em;}
+.globe:before{font-family: 'FontAwesome';content: "\f0ac";}
+.gears:before{font-family: 'FontAwesome';content: "\f085";}
