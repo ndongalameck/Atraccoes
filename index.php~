@@ -37,7 +37,7 @@
 						<img src="fashion/news/images/5.jpg" alt="Primeira Imagem.">
 						<div class="carousel-caption main-slide">
 							<a href="#">
-								<h2>Minha Primeira Imagem.</h2>
+								<h2>Primeira Imagem.</h2>
 								<p class="hidden-xs">Essa é a primeira imagem do slide.</p>
 							</a>
 						</div>
